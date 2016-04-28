@@ -1,245 +1,2433 @@
-* {
-  box-sizing: border-box; }
-
-body {
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #606c71; }
-
-a {
-  color: #1e6bb8;
-  text-decoration: none; }
-  a:hover {
-    text-decoration: underline; }
-
-.btn {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-  .btn + .btn {
-    margin-left: 1rem; }
-
-.btn:hover {
-  color: rgba(255, 255, 255, 0.8);
-  text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
-
-@media screen and (min-width: 64em) {
-  .btn {
-    padding: 0.75rem 1rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .btn {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem; } }
-
-@media screen and (max-width: 42em) {
-  .btn {
-    display: block;
+.primaryContainer {
+    height: auto;
+   margin: auto;
+    min-height: 100%;
     width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem; }
-    .btn + .btn {
-      margin-top: 1rem;
-      margin-left: 0; } }
+}
 
-.page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+#Akryl_maleri_kopier {
+    float: left;
+    font-size: 1.5625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 66;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: both;
+}
 
-@media screen and (min-width: 64em) {
-  .page-header {
-    padding: 5rem 6rem; } }
+#hest {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 64;
+    margin-top: 22px;
+    margin-left: 5%;
+    clear: none;
+}
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .page-header {
-    padding: 3rem 4rem; } }
+#For_at_styrkeTistrup_Mejeris_identitet_og_mersalg_Et_stort_pr {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 45;
+    margin-top: 9px;
+    margin-left: 5.45809%;
+    clear: both;
+}
 
-@media screen and (max-width: 42em) {
-  .page-header {
-    padding: 2rem 1rem; } }
+#fotobox6-right {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 56;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
 
-.project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem; }
+#vægkalende {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 44;
+    margin-top: 17px;
+    margin-left: 5.068226%;
+    clear: none;
+}
 
-@media screen and (min-width: 64em) {
-  .project-name {
-    font-size: 3.25rem; } }
+#Multimediedesigner_Aug_2015_Design_og_kommunikation_gennem_ {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 76;
+    margin-top: 112px;
+    margin-left: 2%;
+    clear: none;
+}
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-name {
-    font-size: 2.25rem; } }
+#textspan16 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (max-width: 42em) {
-  .project-name {
-    font-size: 1.75rem; } }
+#textspan17 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-.project-tagline {
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7; }
+#textspan18 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (min-width: 64em) {
-  .project-tagline {
-    font-size: 1.25rem; } }
+#textspan19 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-tagline {
-    font-size: 1.15rem; } }
+#Akryl_maleri {
+    float: right;
+    font-size: 1.5625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 65;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: both;
+}
 
-@media screen and (max-width: 42em) {
-  .project-tagline {
-    font-size: 1rem; } }
+#bluebox4-right {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(0, 102, 102);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 40;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
 
-.main-content :first-child {
-  margin-top: 0; }
-.main-content img {
-  max-width: 100%; }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  color: #159957; }
-.main-content p {
-  margin-bottom: 1em; }
-.main-content code {
-  padding: 2px 4px;
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 0.9rem;
-  color: #383e41;
-  background-color: #f3f6fa;
-  border-radius: 0.3rem; }
-.main-content pre {
-  padding: 0.8rem;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
-  word-wrap: normal;
-  background-color: #f3f6fa;
-  border: solid 1px #dce6f0;
-  border-radius: 0.3rem; }
-  .main-content pre > code {
-    padding: 0;
-    margin: 0;
-    font-size: 0.9rem;
-    color: #567482;
-    word-break: normal;
-    white-space: pre;
-    background: transparent;
-    border: 0; }
-.main-content .highlight {
-  margin-bottom: 1rem; }
-  .main-content .highlight pre {
-    margin-bottom: 0;
-    word-break: normal; }
-.main-content .highlight pre, .main-content pre {
-  padding: 0.8rem;
-  overflow: auto;
-  font-size: 0.9rem;
-  line-height: 1.45;
-  border-radius: 0.3rem; }
-.main-content pre code, .main-content pre tt {
-  display: inline;
-  max-width: initial;
-  padding: 0;
-  margin: 0;
-  overflow: initial;
-  line-height: inherit;
-  word-wrap: normal;
-  background-color: transparent;
-  border: 0; }
-  .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after {
-    content: normal; }
-.main-content ul, .main-content ol {
-  margin-top: 0; }
-.main-content blockquote {
-  padding: 0 1rem;
-  margin-left: 0;
-  color: #819198;
-  border-left: 0.3rem solid #dce6f0; }
-  .main-content blockquote > :first-child {
-    margin-top: 0; }
-  .main-content blockquote > :last-child {
-    margin-bottom: 0; }
-.main-content table {
-  display: block;
-  width: 100%;
-  overflow: auto;
-  word-break: normal;
-  word-break: keep-all; }
-  .main-content table th {
-    font-weight: bold; }
-  .main-content table th, .main-content table td {
-    padding: 0.5rem 1rem;
-    border: 1px solid #e9ebec; }
-.main-content dl {
-  padding: 0; }
-  .main-content dl dt {
-    padding: 0;
-    margin-top: 1rem;
-    font-size: 1rem;
-    font-weight: bold; }
-  .main-content dl dd {
-    padding: 0;
-    margin-bottom: 1rem; }
-.main-content hr {
-  height: 2px;
-  padding: 0;
-  margin: 1rem 0;
-  background-color: #eff0f1;
-  border: 0; }
+#EASV_-_logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 75;
+    margin-top: 112px;
+    margin-left: 30%;
+    clear: both;
+}
 
-@media screen and (min-width: 64em) {
-  .main-content {
-    max-width: 64rem;
-    padding: 2rem 6rem;
-    margin: 0 auto;
-    font-size: 1.1rem; } }
+#ABOUT_ME {
+    float: left;
+    font-size: 2.0625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 22;
+    margin-top: 56px;
+    margin-left: 31.319917%;
+    clear: none;
+}
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .main-content {
-    padding: 2rem 4rem;
-    font-size: 1.1rem; } }
+#dance {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 63;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: none;
+}
 
-@media screen and (max-width: 42em) {
-  .main-content {
-    padding: 2rem 1rem;
-    font-size: 1rem; } }
+#Poster_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 48;
+    margin-top: 15px;
+    margin-left: 20%;
+    clear: both;
+}
 
-.site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+#Logistikøkonom_Aug_2011-_Juni_2013_Uddannelsen_fokuserer_på {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 78;
+    margin-top: 14px;
+    margin-left: 2%;
+    clear: none;
+}
 
-.site-footer-owner {
-  display: block;
-  font-weight: bold; }
+#textspan8 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-.site-footer-credits {
-  color: #819198; }
+#textspan9 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (min-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
+#textspan10 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
+#textspan11 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
 
-@media screen and (max-width: 42em) {
-  .site-footer {
-    font-size: 0.9rem; } }
+#textspan12 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan13 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan14 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan15 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: -0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#box-aboutme {
+    float: left;
+    height: 155px;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 21;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
+
+#fotobox5-left {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 55;
+}
+
+#poster-_vi_er_esbjerg-A4 {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 43;
+    margin-top: 16px;
+    margin-right: 5%;
+    clear: none;
+}
+
+#lillebælt-logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 79;
+    margin-top: 14px;
+    margin-left: 30%;
+    clear: both;
+}
+
+#HOBBIER {
+    float: left;
+    font-size: 2.0625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 24;
+    margin-top: 58px;
+    margin-left: 39.299611%;
+    clear: none;
+}
+
+#En_kat_i_Colosseum {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 69;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: both;
+}
+
+#bluebox3-left {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(0, 102, 102);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 39;
+    margin-top: auto;
+    margin-left: 0%;
+    clear: none;
+}
+
+#UDDANNELSE {
+    float: left;
+    font-size: 1.0625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: bold;
+    line-height: 1em;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 80;
+    margin-top: 147px;
+    margin-left: 30%;
+    clear: both;
+}
+
+#box-hobbier {
+    float: left;
+    height: 155px;
+    width: 49.85451%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 20;
+}
+
+#Jeg_nyder_at_sidde_og_designe_hele_tiden_og_er_god_til_at_inddr {
+    float: none;
+    font-size: 1.5786924999999998em;
+    width: 80%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: normal;
+    color: rgb(102, 102, 102);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: Arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 11;
+    margin-top:auto;
+    margin-left: 9.891792%;
+    padding-top: 50px;
+    clear: both;
+}
+
+#background-container {
+    float: left;
+    height: auto;
+    width: 100%;
+    background-color: rgb(204, 204, 153);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    margin: auto;
+}
+
+#kat {
+    float: left;
+    width: auto;
+    max-width: 80%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 62;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: none;
+}
+
+#Logo_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 47;
+    margin-top: 10px;
+    margin-left: 5%;
+    clear: both;
+}
+
+#LIDT_OM_MIG_Jeg_har_arbejdserfaring_som_designer_til_stor-forma {
+    float: none;
+    font-size: 1em;
+    width: 70%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 73;
+    margin-top: auto;
+    padding-top: 50px;
+    margin-left: auto;
+    clear: both;
+}
+
+#textspan {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan2 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.025em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan3 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.018em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan5 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan6 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#textspan7 {
+    float: none;
+    font-size: 1.0625em;
+    line-height: normal;
+    color: rgb(51, 51, 51);
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-family: arial;
+}
+
+#DESIGN_ {
+    float: left;
+    font-size: 2.0625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 25;
+    margin-top: 59px;
+    margin-left: 31.319917%;
+    clear: none;
+}
+
+#Social-Networks-Linkedin-icon_kopier_2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 14;
+    margin-top: 11px;
+    margin-left: 22%;
+    clear: none;
+}
+
+#logo-_Shirin_Design-_Portfolie {
+    margin-top: 4%;
+    margin-left: 10%;
+}
+
+#fotobox4-right {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 54;
+    margin-top: auto;
+    margin-left: 50%;
+    clear: none;
+}
+
+#vierEsbjerg-logo {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 42;
+    margin-top: 5px;
+    margin-left: 5%;
+    clear: none;
+}
+
+#cv-icon {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 77;
+    margin-top: 132px;
+    margin-left: 30%;
+    clear: none;
+}
+
+#box-design {
+    float: left;
+    height: 155px;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 18;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
+
+#facebook-Icon {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 13;
+    margin-top: 10px;
+    margin-left: 22%;
+    clear: both;
+}
+
+#foto-backround {
+    float: none;
+    width: 100%;
+    height: 710px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+    background-image:url("img/foto-backround.jpg");
+    background-size: 100%;
+}
+
+#Vinduet_i_Venice {
+    float: right;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 68;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: both;
+}
+
+#Rektangel_7 {
+    float: left;
+    height: 182px;
+    width: 55%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 38;
+    margin-top: 25px;
+    margin-left: 5%;
+    clear: none;
+}
+
+#LOGO_ {
+    float: left;
+    font-size: 2.0625em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 23;
+    margin-top: 62px;
+    margin-left: 39.105058%;
+    clear: none;
+}
+
+#iconmonstr-googleplus-4-icon_zpscfd3b4ad_kopier {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 12;
+    margin-top: 9px;
+    margin-left: 22%;
+    clear: none;
+}
+
+#venedie {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 61;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: none;
+}
+
+#bluebox2-right {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(0, 102, 102);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 37;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
+
+#BGcv-orange {
+    float: left;
+    height: auto;
+    width: 100%;
+    background-color: rgb(204, 153, 102);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 72;
+    margin-top: 78px;
+    margin-left: 0%;
+    padding-bottom: 50px;
+    clear: both;
+}
+
+#Box-logo {
+    float: left;
+    height: 155px;
+    width: 49.85451%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 19;
+    margin-top: 100px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#Shirin_Vazirian_Multimediedesigner {
+    float: left;
+    width: auto;
+    height: auto;
+    text-align: left;
+    color: rgb(51, 51, 51);
+    font-family: Arial;
+    position: relative;
+    top: 100px;
+    left: 15px;
+    z-index: 10;
+    margin-top: auto;
+}
+
+#fotobox3-left {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 53;
+}
+
+#logo-DJ-BEHDIN {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 41;
+    margin-top: 25px;
+    margin-right: 5%;
+    clear: none;
+}
+
+#profilefoto-black_white {
+    margin: auto;
+    float: none;
+    clear: none;
+    height: auto;
+    width: 100%;;
+}
+
+#Fridagsbazar_i_Antalia {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 67;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: both;
+}
+
+#Logoet_er_designet_til_en_ung_deejay {
+    float: left;
+    font-size: 1.3125em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 46;
+    margin-top: 13px;
+    margin-left: 45%;
+    clear: none;
+}
+
+#IMG_4375 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 58;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: none;
+}
+
+#bluebox1-left {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(0, 102, 102);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 36;
+    margin-top: 78px;
+    margin-left: 0%;
+    clear: both;
+}
+
+#IMG_4374 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 57;
+    margin-top: 15px;
+    margin-left: 5%;
+    clear: none;
+}
+
+#fotobox2-right {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 52;
+    margin-top: 0px;
+    margin-left: 50%;
+    clear: both;
+}
+
+#Cafe_i_Ribe_ {
+    float: right;
+    font-size: 1.0679353125em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    color: rgb(204, 204, 153);
+    font-style: normal;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-family: arial;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 60;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: both;
+}
+
+#IMG_9353 {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 59;
+    margin-top: 15px;
+    margin-right: 5%;
+    clear: none;
+}
+
+#fotobox1-left {
+    float: left;
+    height: auto;
+    width: 50%;
+    background-color: rgb(102, 0, 51);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 51;
+}
+
+#profilfoto-box {
+    float: none;
+    height: auto;
+    margin: 0 auto 50px;
+    clear: none;
+    width: 40%;
+    position: relative;
+}
+
+#icon-box {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: auto;
+    padding-top: 25%;
+    clear: both;
+    width: 25%;
+    margin-right: auto;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 30%;
+    margin-top: 35px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#footer {
+    width: 80%;
+    height: auto;
+    float: none;
+    margin-bottom: 50px;
+    clear: both;
+    margin-top: 50px;
+    margin-left: 10%;
+
+}
+#buttom-logo {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 50px 45% 50px;
+    clear: both;
+    color: rgb(0, 0, 0);
+    position: relative;
+
+    z-index: 60;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 22%;
+    margin-top: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-bottom: 100px;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 22%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 22%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+#fotoboxes {
+    width: auto;
+    margin: auto;
+}
+
+@media only screen and (max-width: 1199px) {
+
+
+    #foto-backround {
+
+        clear: none;
+        width: 100%;
+        height: 600px;
+        margin-right: auto;
+        float: none;
+    }
+
+    #facebook-Icon {
+        margin-top: 0%;
+        margin-left: 15%;
+        clear: none;
+        margin-right: 0%;
+        position: relative;
+    }
+
+    #Jeg_nyder_at_sidde_og_designe_hele_tiden_og_er_god_til_at_inddr {
+        margin-top: 38.78125px;
+        margin-left: auto;
+        clear: none;
+        margin-right: auto;
+        float: none;
+        width: 90%;
+        position: relative;
+    }
+
+    #Box-logo {
+        margin-top: 84px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    #box-design {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: both;
+        width: 50%;
+    }
+
+    #box-aboutme {
+        margin-top: auto;
+        margin-left: 50%;
+        clear: none;
+        margin-right: 0px;
+        float: left;
+        width: 50%;
+    }
+
+    #BGcv-orange {
+        margin-top: 50px;
+        margin-left: 0%;
+        clear: both;
+        width: 100%;
+        height: auto;
+    }
+
+    #bluebox1-left {
+        margin-top: 78px;
+        margin-left: 0%;
+        clear: both;
+        height: auto;
+    }
+
+    #bluebox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: both;
+        height: auto;
+    }
+
+    #bluebox3-left {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+        height: auto;
+        margin-right: 50%;
+        float: right;
+        width: 50%;
+    }
+
+    #bluebox4-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: right;
+        width: 50%;
+        margin-right: 0%;
+    }
+
+    #fotobox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+    }
+
+    #fotobox6-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    #Shirin_Vazirian_Multimediedesigner {
+        margin-top: 2%;
+        margin-left: 2%;
+        clear: none;
+        margin-bottom: -100px;
+        position: relative;
+        top: 0px;
+
+    }
+
+    #logo-_Shirin_Design-_Portfolie {
+        margin-top: 4%;
+        margin-left: 10%;
+    }
+
+    #profilfoto-box {
+        float: none;
+        height: auto;
+        margin: 0 auto 30px;
+        clear: both;
+        width: 30%;
+        position: relative;
+        top: 100px;
+        left: 0px;
+    }
+
+    #Social-Networks-Linkedin-icon_kopier_2 {
+        margin-top: 0px;
+        margin-left: 15%;
+        clear: none;
+        margin-right: 0%;
+        position: relative;
+    }
+
+    #iconmonstr-googleplus-4-icon_zpscfd3b4ad_kopier {
+        margin-top: 0px;
+        margin-left: 15%;
+        clear: none;
+        margin-right: 0%;
+        position: relative;
+    }
+
+    #icon-box {
+        float: none;
+        height: auto;
+        margin-left: auto;
+        margin-top: auto;
+        clear: both;
+        width: 35%;
+        margin-right: auto;
+    }
+
+    #logo-DJ-BEHDIN {
+        margin-left: 0px;
+        margin-right: 5%;
+        float: right;
+        margin-top: 5%;
+        clear: none;
+    }
+
+    #Logoet_er_designet_til_en_ung_deejay {
+        margin: 2% 5% 2% 0px;
+        float: right;
+        clear: both;
+    }
+
+    #poster-_vi_er_esbjerg-A4 {
+        margin-left: 0px;
+        margin-right: 5%;
+        float: right;
+        margin-top: 5%;
+        clear: none;
+    }
+
+    #Poster_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+        margin: 1.998332% 5% 2% 0px;
+        clear: both;
+        float: right;
+        font-size: 100%;
+    }
+
+    #Logo_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+        font-size: 100%;
+        margin-top: 0.35604311%;
+        margin-bottom: 2%;
+        margin-left: 4.997434%;
+        clear: both;
+    }
+
+    #Rektangel_7 {
+        margin-left: 5%;
+        margin-top: 5%;
+        height: auto;
+        margin-bottom: 2%;
+    }
+
+    #fotobox4-right {
+        width: 50%;
+        margin-left: 50%;
+        margin-top: auto;
+        height: auto;
+    }
+
+    #kat {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #En_kat_i_Colosseum {
+        margin-top: 2%;
+        margin-left: 5%;
+        clear: both;
+        margin-bottom: 2%;
+    }
+
+    #venedie {
+        margin-top: 4.997439%;
+        margin-left: 0px;
+        margin-right: 5%;
+        float: right;
+        clear: none;
+    }
+
+    #Vinduet_i_Venice {
+        margin: 2% 5% 2% 0px;
+        clear: both;
+        float: right;
+    }
+
+    #fotobox3-left {
+        height: auto;
+    }
+
+    #background-container {
+        height: auto;
+    }
+
+    #fotobox5-left {
+        height: auto;
+    }
+
+    #dance {
+        margin-top: 5%;
+        margin-left: 0px;
+        clear: none;
+        margin-right: 5%;
+        float: right;
+    }
+
+    #Akryl_maleri {
+        margin: 1.999742% 4.997746% 2% 0px;
+        clear: both;
+        float: right;
+    }
+
+    #Akryl_maleri_kopier {
+        margin-top: 2%;
+        margin-left: 5%;
+        clear: both;
+        margin-bottom: 2%;
+    }
+
+    #hest {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #cv-icon {
+        margin-left: 0px;
+        margin-right: 20%;
+        float: right;
+        margin-top: 70px;
+        clear: none;
+    }
+
+    #LIDT_OM_MIG_Jeg_har_arbejdserfaring_som_designer_til_stor-forma {
+        margin-top: 278.84375px;
+        margin-left: auto;
+        clear: none;
+        width: 70%;
+        margin-right: auto;
+        float: none;
+    }
+
+    #UDDANNELSE {
+        margin-top: 100px;
+        margin-left: 15%;
+        clear: none;
+    }
+
+    #lillebælt-logo {
+        margin-top: 14px;
+        margin-left: 15%;
+        clear: left;
+    }
+
+    #EASV_-_logo {
+        margin-top: 100px;
+        margin-left: 15%;
+        clear: left;
+        margin-bottom: 50px;
+    }
+
+    #image {
+        margin-top: 70px;
+        margin-right: 0%;
+        margin-left: 14.999479%;
+        clear: none;
+    }
+
+    #Multimediedesigner_Aug_2015_Design_og_kommunikation_gennem_ {
+        margin-top: 100px;
+    }
+
+    #fotobox1-left {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: left;
+    }
+
+    #image1 {
+        margin-left: 23%;
+    }
+}
+
+@media only screen and (max-width: 972px) {
+    #Jeg_nyder_at_sidde_og_designe_hele_tiden_og_er_god_til_at_inddr {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 2%;
+        font-size: 120%;
+    }
+
+    #profilfoto-box {
+        margin-top: -50%;
+        clear: both;
+        position: relative;
+        top: 400px;
+    }
+
+    #Box-logo {
+        margin-top: 55px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    #box-design {
+        clear: both;
+        margin-left: 49.996785%;
+        margin-top: 0px;
+        margin-right: 0%;
+    }
+
+    #box-aboutme {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: both;
+        margin-right: auto;
+        float: right;
+    }
+
+    #BGcv-orange {
+        margin-top: 4.973637%;
+        margin-left: 0%;
+        clear: right;
+        width: 100%;
+        height: auto;
+    }
+
+    #bluebox1-left {
+        margin-top: 78px;
+        margin-left: 0%;
+        clear: left;
+        height: auto;
+        width: 50%;
+    }
+
+    #bluebox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+        height: auto;
+    }
+
+    #bluebox3-left {
+        margin-top: 0%;
+        margin-left: 0px;
+        clear: left;
+        margin-right: 50%;
+        float: right;
+        width: 50%;
+        height: auto;
+    }
+
+    #bluebox4-right {
+        clear: right;
+        height: auto;
+        width: 50%;
+        margin-left: 50%;
+        margin-top: 0px;
+    }
+
+    #fotobox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+        height: auto;
+    }
+
+    #fotobox6-right {
+        margin-top: 0px;
+        margin-left: 49.853717%;
+        clear: left;
+        width: 50%;
+        height: auto;
+    }
+
+    #background-container {
+        height: auto;
+    }
+
+    #box-hobbier {
+        height: 155px;
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0px;
+        float: left;
+        clear: both;
+    }
+
+    #fotobox5-left {
+        clear: left;
+        width: 50%;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    #fotobox3-left {
+        margin: 0px;
+        clear: left;
+        height: auto;
+        width: 50%;
+    }
+
+    #fotobox1-left {
+        margin: 0px;
+        clear: none;
+        width: 50%;
+        height: auto;
+    }
+
+    #fotobox4-right {
+        clear: left;
+        width: 50%;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 50%;
+        margin-right: 0%;
+    }
+
+    #LOGO_ {
+        margin-left: 30%;
+        margin-top: 12%;
+    }
+
+    #ABOUT_ME {
+        margin-left: 30%;
+        margin-top: 12%;
+    }
+
+    #DESIGN_ {
+        margin-left: 30%;
+        margin-top: 12%;
+    }
+
+    #HOBBIER {
+        margin-left: 30%;
+        margin-top: 12%;
+    }
+
+    #logo-DJ-BEHDIN {
+        margin-top: 25px;
+        margin-left: 0px;
+        clear: none;
+        margin-right: 25px;
+        float: right;
+    }
+
+    #Logoet_er_designet_til_en_ung_deejay {
+        margin: 10px 25px 15px auto;
+        clear: both;
+    }
+
+    #Rektangel_7 {
+        margin-left: 25px;
+        margin-right: auto;
+        margin-top: 25px;
+    }
+
+    #Logo_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+        margin-top: 10px;
+        margin-left: 25px;
+        margin-bottom: 15px;
+    }
+
+    #poster-_vi_er_esbjerg-A4 {
+        margin-top: 25px;
+        margin-left: 0px;
+        margin-right: 25px;
+        float: right;
+        clear: none;
+    }
+
+    #Poster_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+        margin: 10px 25px 15px auto;
+        clear: both;
+    }
+
+    #IMG_9353 {
+        margin-top: 4.999357%;
+        margin-left: 0px;
+        margin-right: 5%;
+        float: right;
+        clear: none;
+    }
+
+    #Cafe_i_Ribe_ {
+        margin: 2% 5% 2% 0px;
+        clear: both;
+        float: right;
+    }
+
+    #vægkalende {
+        margin-top: 25px;
+        margin-left: 25px;
+    }
+
+    #For_at_styrkeTistrup_Mejeris_identitet_og_mersalg_Et_stort_pr {
+        margin-top: 10px;
+        margin-left: 25px;
+        margin-bottom: 15px;
+    }
+
+    #IMG_4374 {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #IMG_4375 {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #Fridagsbazar_i_Antalia {
+        margin-top: 2%;
+        margin-bottom: 2%;
+        margin-left: 5%;
+    }
+
+    #Vinduet_i_Venice {
+        margin: 2.002386% 4.997904% 2% 0px;
+        float: right;
+        clear: both;
+    }
+
+    #venedie {
+        margin-top: 4.997904%;
+        margin-left: 0px;
+        margin-right: 5%;
+        float: right;
+        clear: none;
+    }
+
+    #Akryl_maleri {
+        margin: 1.999743% 5% 2% 0px;
+        clear: both;
+        float: right;
+    }
+
+    #dance {
+        margin: 4.999357% 5% 0% 0px;
+        float: right;
+        clear: none;
+    }
+
+    #kat {
+        margin-top: 5%;
+        margin-left: 5%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #En_kat_i_Colosseum {
+        margin: 2% 0% 2% 5%;
+        clear: both;
+    }
+
+    #hest {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #Akryl_maleri_kopier {
+        margin-top: 2%;
+        margin-left: 5%;
+        clear: both;
+        margin-bottom: 2%;
+    }
+
+    #foto-backround {
+        height: 400px;
+        margin: 0px;
+    }
+
+    #icon-box {
+        width: 45%;
+        height: auto;
+        margin-top: 31.453125px;
+        clear: both;
+    }
+
+
+    #Shirin_Vazirian_Multimediedesigner {
+        margin-top: 2%;
+        margin-left: 2%;
+        font-size: 90%;
+        clear: none;
+        float: left;
+    }
+
+
+    #LIDT_OM_MIG_Jeg_har_arbejdserfaring_som_designer_til_stor-forma {
+        margin-top: 0px;
+        margin-left: auto;
+        clear: both;
+        margin-right: auto;
+        float: none;
+    }
+
+    #UDDANNELSE {
+        margin-left: 25.998264%;
+        margin-top: 100px;
+        clear: none;
+    }
+
+    #lillebælt-logo {
+        margin-left: 9.998714%;
+        margin-top: 14px;
+        clear: left;
+    }
+
+    #EASV_-_logo {
+        margin-left: 9.998714%;
+        margin-bottom: 40px;
+        margin-top: 100px;
+        clear: left;
+    }
+
+    #cv-icon {
+        margin-right: 15%;
+    }
+
+    #image {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 10.051762%;
+        margin-top: 35px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-bottom: 20px;
+    }
+
+    #vierEsbjerg-logo {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: auto;
+    }
+
+    #profilefoto-black_white {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        position: relative;
+
+    }
+
+    #Logistikøkonom_Aug_2011-_Juni_2013_Uddannelsen_fokuserer_på {
+        width: 60%;
+    }
+
+    #Multimediedesigner_Aug_2015_Design_og_kommunikation_gennem_ {
+        width: 60%;
+    }
+
+    #image1 {
+        margin-left: 22%;
+    }40
+}
+
+@media only screen and (max-width: 760px) {
+    #Poster_designet_for_et_projekt_til_Esbjerg_150_års_jubilluim {
+        text-align: right;
+    }
+
+    #Shirin_Vazirian_Multimediedesigner {
+        font-size: 90%;
+        margin-top: 2%;
+        margin-left: 2%;
+    }
+
+    #facebook-Icon {
+        margin-left: 10%;
+    }
+
+    #profilfoto-box {
+        margin-top: auto;
+        clear: none;
+        width: 29.99873%;
+        position: relative;
+        top: 50px;
+    }
+
+    #icon-box {
+        margin-top: 31.4375px;
+        clear: both;
+        width: 35%;
+    }
+
+    #box-design {
+        margin-top: 0px;
+        margin-left: 49.993832%;
+        clear: both;
+        width: 50%;
+        height: 155px;
+    }
+
+    #box-hobbier {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        width: 49.853913%;
+        height: 155px;
+    }
+
+    #box-aboutme {
+        margin-right: 0%;
+        margin-top: 0px;
+        clear: both;
+        width: 50%;
+        height: 155px;
+    }
+
+    #BGcv-orange {
+        margin-top: 4.969161%;
+        margin-left: 0%;
+        clear: right;
+        width: 100%;
+    }
+
+    #bluebox1-left {
+        margin-top: 78.015625px;
+        margin-left: 0%;
+        clear: left;
+        width: 50%;
+    }
+
+    #bluebox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+    }
+
+    #bluebox3-left {
+        margin-right: 50%;
+        margin-top: 0%;
+        clear: left;
+        width: 50%;
+    }
+
+    #bluebox4-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: right;
+        width: 50%;
+    }
+
+    #fotobox2-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+    }
+
+    #fotobox3-left {
+        margin-top: 0px;
+        margin-left: 0px;
+        clear: left;
+        width: 50%;
+    }
+
+    #fotobox4-right {
+        margin-top: 0px;
+        margin-left: 50%;
+        clear: left;
+        width: 50%;
+    }
+
+    #fotobox5-left {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: left;
+        width: 50%;
+    }
+
+    #fotobox6-right {
+        margin-top: 0px;
+        margin-left: 49.849918%;
+        clear: left;
+        width: 50%;
+    }
+
+   /* #background-container {
+        height: auto;
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: none;
+        position: static;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+    }
+*/
+    #Box-logo {
+        width: 49.853913%;
+        height: 155px;
+    }
+
+    #Jeg_nyder_at_sidde_og_designe_hele_tiden_og_er_god_til_at_inddr {
+        width: 89.998306%;
+    }
+
+    #fotobox1-left {
+        width: 50%;
+    }
+
+    #buttom-logo {
+        float: none;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin: 50px 45% 50px;
+        clear: both;
+        color: rgb(0, 0, 0);
+        position: relative;
+    }
+
+    #foto-backround {
+        width: 100%;
+        height: 300px;
+        position: relative;
+    }
+
+
+    #LIDT_OM_MIG_Jeg_har_arbejdserfaring_som_designer_til_stor-forma {
+        width: 69.999153%;
+    }
+
+    #Logistikøkonom_Aug_2011-_Juni_2013_Uddannelsen_fokuserer_på {
+        width: 59.999577%;
+        margin-top: 10px;
+    }
+
+    #Multimediedesigner_Aug_2015_Design_og_kommunikation_gennem_ {
+        width: 59.999577%;
+    }
+
+    #Rektangel_7 {
+        width: 60.425136%;
+    }
+
+    #image1 {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 15%;
+        margin-top: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-bottom: 100px;
+    }
+
+    #image3 {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 15%;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #image2 {
+        float: left;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin-left: 15%;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0%;
+    }
+
+    #logo-DJ-BEHDIN {
+        width: 70%;
+        max-width: none;
+    }
+
+    #vierEsbjerg-logo {
+        width: 99.689981%;
+    }
+
+    #logo-_Shirin_Design-_Portfolie {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 685px) {
+    #IMG_9353 {
+        width: 70%;
+        max-width: none;
+    }
+
+    #IMG_4374 {
+        width: 45%;
+    }
+
+    #IMG_4375 {
+        width: 27%;
+        margin-top: 5%;
+    }
+
+    #venedie {
+        width: 70%;
+        max-width: none;
+    }
+
+    #dance {
+        width: 70%;
+        max-width: none;
+    }
+
+    #hest {
+        width: 70%;
+        max-width: none;
+    }
+
+    #vierEsbjerg-logo {
+        width: 90%;
+        max-width: none;
+    }
+
+    #UDDANNELSE {
+        margin-left: 15%;
+    }
+
+    #lillebælt-logo {
+        margin-left: 10%;
+    }
+
+    #EASV_-_logo {
+        margin-left: 10%;
+    }
+
+    #iconmonstr-googleplus-4-icon_zpscfd3b4ad_kopier {
+        margin-left: 10%;
+    }
+
+    #Mobile-Icon-White-on-Black_kopier {
+        margin-left: 5%;
+    }
+
+    #Social-Networks-Linkedin-icon_kopier_2 {
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 528px) {
+    #Shirin_Vazirian_Multimediedesigner {
+        font-size: 50%;
+    }
+
+    #icon-box {
+        width: 200px;
+    }
+
+    #LOGO_ {
+        font-size: 150%;
+        margin-top: 65px;
+    }
+
+    #DESIGN_ {
+        margin-top: 55px;
+        font-size: 150%;
+    }
+
+    #HOBBIER {
+        font-size: 150%;
+        margin-top: 55px;
+    }
+
+    #ABOUT_ME {
+        margin-top: 55px;
+        font-size: 150%;
+    }
+
+    #Logistikøkonom_Aug_2011-_Juni_2013_Uddannelsen_fokuserer_på {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 10px;
+    }
+
+    #LIDT_OM_MIG_Jeg_har_arbejdserfaring_som_designer_til_stor-forma {
+        margin-top: 0px;
+        clear: both;
+    }
+
+    #lillebælt-logo {
+        margin-top: 14px;
+        margin-left: 25%;
+        clear: none;
+        margin-right: auto;
+        float: none;
+    }
+
+    #EASV_-_logo {
+        margin-top: 10px;
+        margin-left: 25%;
+        clear: none;
+        float: none;
+        position: relative;
+    }
+
+    #UDDANNELSE {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        width: 30%;
+        text-align: center;
+    }
+
+    #Multimediedesigner_Aug_2015_Design_og_kommunikation_gennem_ {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 0px;
+        position: relative;
+    }
+
+    #image {
+        margin-left: 15%;
+    }
+
+    #Logoet_er_designet_til_en_ung_deejay {
+        font-size: 100%;
+    }
+
+    #poster-_vi_er_esbjerg-A4 {
+        width: 70%;
+        max-width: none;
+    }
+
+    #vægkalende {
+        width: 70%;
+        max-width: none;
+    }
+
+    #For_at_styrkeTistrup_Mejeris_identitet_og_mersalg_Et_stort_pr {
+        font-size: 100%;
+    }
+
+    #Cafe_i_Ribe_ {
+        font-size: 100%;
+    }
+
+    #Fridagsbazar_i_Antalia {
+        font-size: 100%;
+    }
+
+    #Vinduet_i_Venice {
+        font-size: 100%;
+    }
+
+    #En_kat_i_Colosseum {
+        font-size: 100%;
+    }
+
+    #Akryl_maleri {
+        font-size: 100%;
+    }
+
+    #Akryl_maleri_kopier {
+        font-size: 100%;
+    }
+
+    #foto-backround {
+        height: 300px;
+    }
+
+    #logo-_Shirin_Design-_Portfolie {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 426px) {
+    #foto-backround {
+        height: 350px;
+    }
+
+    #icon-box {
+        width: 160px;
+    }
+
+    #Jeg_nyder_at_sidde_og_designe_hele_tiden_og_er_god_til_at_inddr {
+        font-size: 100%;
+    }
+
+    #image3 {
+        margin-left: 10%;
+    }
+
+    #image2 {
+        margin-left: 10%;
+    }
+
+    #image1 {
+        margin-left: 10%;
+    }
+}
